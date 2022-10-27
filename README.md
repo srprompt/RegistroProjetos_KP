@@ -1,2 +1,2 @@
 # RegistroProjetos_KP
-Programa feito em Java utilizando PostgreSQL para retenção e administração dos dados.
+Programa desenvolvido em Java por três alunos de Engenharia da Computação do IFSP-Piracicaba, utilizando PostgreSQL para retenção e administração dos dados.
